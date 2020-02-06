@@ -1,10 +1,10 @@
-def addition(5, 4)
-addition = 4 + 5
+def addition(num1, num2)
+addition = num2 + num1
 return addition
 end
 
-def subtraction(10, 5)
-subtraction = 5 - 10
+def subtraction(num1, num2)
+subtraction == num2 - num1
 return subtraction
 end
 
