@@ -19,7 +19,7 @@ return multiplication
 end
 
 def modulo(num1, num2)
-modulo = num2 % num1
+modulo = num1 % num2
 return modulo
 end
 
